@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Anil kumar
-- 👀 I’m interested in DevOps, Microsoft Sharepoint, Full Stack java
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/anil-kumar-gangadhar-0809aa25a
-
-<!---
-anilkumar115/anilkumar115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Anil kumar Gangadhar
+- 👀 I’m interested in Full Stack Java, DevOps, Microsoft Sharepoint.
+Experienced Java Developer with a demonstrated history of working in the information technology and services industry. With seven years of hands-on experience, I have a strong command over Java programming language and its various frameworks. My expertise lies in developing scalable and efficient applications, leveraging best practices and design patterns. I am passionate about problem-solving and continuously strive to stay updated with the latest advancements in Java technology. Looking forward to contributing my skills and expertise to innovative projects and collaborating with like-minded professionals.
